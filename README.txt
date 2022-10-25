@@ -9,3 +9,5 @@ The Project is basically ChainSafe - https://www.youtube.com/watch?v=41w6G6Hp9ig
 That about all I Have right now so I would love some ideas from the rest of you.
 
 This is where the Scripts are Located - https://github.com/1NEGROUP/CryptoShop/tree/main/Assets/Web3Unity/Scripts
+
+and incase it is a bit easier we can discuss the Project here - https://www.guilded.gg/1negroup/groups/Dkxr2yed/channels/2dde59af-ff19-454d-ae33-4b4c88ae407b/forums/304499799
