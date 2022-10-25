@@ -7,3 +7,5 @@ The Project is basically ChainSafe - https://www.youtube.com/watch?v=41w6G6Hp9ig
 2nd Goal is to make this Itch.io like as possible and OpenSource No matter What.
 
 That about all I Have right now so I would love some ideas from the rest of you.
+
+This is where the Scripts are Located - https://github.com/1NEGROUP/CryptoShop/tree/main/Assets/Web3Unity/Scripts
